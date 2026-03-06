@@ -11,9 +11,9 @@ Came to programming from a Politics & International Relations degree. I was brok
 
 ## Stack
 
-**Backend:** C#, .NET, ASP.NET Core, SQL, Docker
-**Frontend:** Vue.js, TypeScript, Playwright
-**Infra:** Cloudflare, GitHub Actions
+- **Backend:** C#, .NET, ASP.NET Core, SQL, Docker
+- **Frontend:** Vue.js, TypeScript, Playwright
+- **Infra:** Cloudflare, GitHub Actions
 
 ## Elsewhere
 
