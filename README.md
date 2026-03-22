@@ -6,7 +6,6 @@ Came to programming from a Politics & International Relations degree. I was brok
 
 ## What I'm working on
 
-- **[Claude Grand Bazaar](https://github.com/witoldwozniak/claude-grand-bazaar)** — a curated plugin marketplace for Claude Code and Cowork. Opinionated, research-grounded plugins built from scratch, preferring quality over quantity.
 - **[bartz-kancelaria.pl](https://bartz-kancelaria.pl)** — website for my mom's one-person law office in Poland. Nuxt 4, Vue 3, TypeScript, Tailwind CSS, Cloudflare Pages. WCAG 2.1 AA accessible.
 
 ## Stack
